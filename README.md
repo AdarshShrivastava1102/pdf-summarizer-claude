@@ -41,5 +41,4 @@ Set your `ANTHROPIC_API_KEY` in the script before running.
 - Why prompt specificity matters ("exactly 5 lines" vs "summarize")
 
 ## Author
-
-Adarsh Shrivastava — [LinkedIn]([https://linkedin.com/in/adarsh-p110293]) · [GitHub](https://github.com/AdarshShrivastava1102)
+Adarsh Shrivastava — [LinkedIn](https://linkedin.com/in/adarsh-p110293) · [GitHub](https://github.com/AdarshShrivastava1102)
