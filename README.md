@@ -4,7 +4,7 @@ Summarize any PDF in exactly 5 lines using Claude API.
 
 ## Demo
 
-![Demo screenshot](docs/screenshot.png.png)
+![Demo screenshot](docs/screenshot.png)
 
 ## What it does
 
