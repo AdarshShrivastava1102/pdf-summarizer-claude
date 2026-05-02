@@ -42,4 +42,4 @@ Set your `ANTHROPIC_API_KEY` in the script before running.
 
 ## Author
 
-Adarsh Shrivastava — [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) · [Portfolio](https://YOUR-SUBDOMAIN.vercel.app)
+Adarsh Shrivastava — [LinkedIn]([https://linkedin.com/in/adarsh-p110293]) · [GitHub](https://github.com/AdarshShrivastava1102)
